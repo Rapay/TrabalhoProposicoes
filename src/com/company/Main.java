@@ -45,7 +45,7 @@ public class Main {
                     continue;
             }
 
-            // Exibe o resultado 
+            // Exibe o resultado
             String ExibirResultado = resultado ? "verdadeiro" : "falso";
             System.out.println("O valor lógico resultante é: " + ExibirResultado + "\n");
             System.out.println("Obrigado por utilizar o calculador de proposições logicas <3\n");
